@@ -13,9 +13,14 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+html {
+  background-image: $brand-gradient;
+}
+
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $lato;
   color: $text-color;
+  margin-top: 15px;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -99,11 +104,16 @@ h1, h2, h3 {
   font-weight: $h2-font-weight;
 }
 
-h1, h3 {
+h1, h2 {
   display: inline;
+  padding: 5px;
   color: $background-color;
-  background-color: #7D67EE;
-  background-image: linear-gradient(to right, #7D67EE 15%, #51ECE4 100%); 
+  background-image: $brand-gradient;
+}
+
+h1:hover, h2:hover {
+  background-image: $hover-gradient;
+  cursor: pointer;
 }
 
 h4, h5, h6 {
