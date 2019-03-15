@@ -15,7 +15,9 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #7AA8EB !default;
+$brand-color:      #927EF4 !default;
+$brand-gradient: linear-gradient(to right, #F4DCEA 0%,#E0C1F9 50%,#D0CAFB 100%);
+$hover-gradient: linear-gradient(to left, #F4DCEA 0%,#E0C1F9 50%,#D0CAFB 100%);
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
