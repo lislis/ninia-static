@@ -125,7 +125,7 @@ h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $grey-color;
   text-decoration: none;
 
   &:visited {
@@ -133,8 +133,8 @@ a {
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: $brand-color;
+    text-decoration: overline;
   }
 
   .social-media-list &:hover {
