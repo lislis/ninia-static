@@ -8,7 +8,10 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
+::selection {
+  background: $brand-color;
+  color: #fff;
+}
 
 /**
  * Basic styling
@@ -125,11 +128,11 @@ h4, h5, h6 {
  * Links
  */
 a {
-  color: $grey-color;
+  color: $brand-color-light;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $grey-color;
   }
 
   &:hover {
