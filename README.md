@@ -14,3 +14,12 @@ Weitere scss Dateien kannst du im `_scss` Unterordner anlegen und in `main.scss`
 ## JS
 
 JavaScript ist in `assets/js`, wird aber erstmal nicht weiter minified. Diese Datei kannst du von hier auch im head in default.html importieren.
+
+
+## Themes
+
+Das Standard Theme von vorher gibt's hier https://github.com/jekyll/minima
+
+Das hier ist eine Jekyll-Seite, die ich auch als Prototyp für ein Wordpress theme genutzt habe
+
+https://github.com/lislis/slam-alphas-prototyp
