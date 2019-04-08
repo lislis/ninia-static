@@ -21,9 +21,14 @@ baseurl: "/ninia-static" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NiniaLaGrande
 
+sasss:
+  sass_dir: assets/style/_scss
+  style: compressed
+permalink: blog/:year/:month/:title
+
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
