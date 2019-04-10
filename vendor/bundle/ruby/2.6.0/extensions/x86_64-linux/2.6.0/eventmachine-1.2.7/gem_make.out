@@ -1,5 +1,5 @@
 current directory: /home/travis/build/lislis/ninia-static/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/home/travis/.rvm/rubies/ruby-2.6.1/bin/ruby -I /home/travis/.rvm/rubies/ruby-2.6.1/lib/ruby/2.6.0 -r ./siteconf20190410-6845-uiqe92.rb extconf.rb
+/home/travis/.rvm/rubies/ruby-2.6.1/bin/ruby -I /home/travis/.rvm/rubies/ruby-2.6.1/lib/ruby/2.6.0 -r ./siteconf20190307-6874-1uikxmx.rb extconf.rb
 creating Makefile
 
 current directory: /home/travis/build/lislis/ninia-static/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -29,4 +29,4 @@ linking shared-object fastfilereaderext.so
 
 current directory: /home/travis/build/lislis/ninia-static/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -m 0755 fastfilereaderext.so ./.gem.20190410-6845-ph4ktg
+/usr/bin/install -m 0755 fastfilereaderext.so ./.gem.20190307-6874-ych9cl
