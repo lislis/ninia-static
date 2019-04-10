@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
- Ninia Binias (*1983) lebt und arbeitet in Hannover.
+Ninia Binias (*1983) lebt und arbeitet in Hannover.
 
 Aktuell produziert sie einen wöchentlichen Podcast für [audible.de](https://www.audible.de/pd/Bildung-Wissen/Die-Kolumnisten-Ninia-Binias-Original-Podcast-Hoerbuch/B079Y8LDL6?ref=a_ep_die-ko_c3_lProduct_1_5&pf_rd_p=03ca8f2f-fe99-438a-b234-3e739893f957&pf_rd_r=RCXPB9YAGTEDBE08N8CH&) („Die Kolumnisten“). Und zwei weitere Podcasts: ["Die kleine schwarze Chaospraxis"](https://itunes.apple.com/de/podcast/die-kleine-schwarze-chaospraxis/id1209840208?mt=2) mit der Schauspielerin und Musikerin Denise M'Baye und ["popradar"](https://itunes.apple.com/de/podcast/popradar/id1273383906?mt=2) mit der Slam Poetin Leonie Warnke. Außerdem schreibt sie Kolumnen und Texte für diverse Zeitungen, Magazine und Online-Portale – u.a. Redaktionsnetzwerk Deutschland, Missy Magazin, leidmedien.de, taz. Ninia moderiert Kongresse, Veranstaltungen, Festivals und zahlreiche weitere Formate live oder vor der Kamera.
 
@@ -27,4 +27,3 @@ Ninia reist gern und zählt Reykjavík und British Columbia zu ihren Lieblingsor
 Bis August 2015 war sie bei papagei.com tätig, Europas größtem Sprachlernportal – für Online Communications und Marketing B2B. Seit September 2015 ist Ninia selbstständige Moderatorin, Autorin und Poetry Slammerin.
 
 Ninia wird vertreten durch die Künstleragentur [ravenrocker](http://ravenrocker.de/).
-

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Lipstick Love und die Macht des Make-ups"
-date:   2018-06-23 14:26:03 +0100
-categories: jekyll update
+date: 2018-06-23 14:26:03 +0100
 ---
 
 Mein vierzehnter Geburtstag war ein großes Ereignis. Ich durfte mich nun schminken. Vorher hatte meine Mutter das nicht erlaubt und nun konnte ich mir endlich blauen Lidschatten in alle Regionen klatschen, die auch nur annähernd mit meinen Augen zu tun hatten. Die 90er - what a time to be alive!
